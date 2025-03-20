@@ -11,8 +11,8 @@ using testudv.Infrastructure.Data;
 namespace testudv.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250319190711_updatePostInfo")]
-    partial class updatePostInfo
+    [Migration("20250320131540_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -26,11 +26,11 @@ namespace testudv.Infrastructure.Migrations
 
             modelBuilder.Entity("testudv.Domain.Entities.PostInfo", b =>
                 {
-                    b.Property<int>("PostId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("PostId"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
                     b.Property<int>("Count")
                         .HasColumnType("integer");
@@ -43,7 +43,7 @@ namespace testudv.Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("jsonb");
 
-                    b.HasKey("PostId");
+                    b.HasKey("Id");
 
                     b.ToTable("PostsInfo");
                 });

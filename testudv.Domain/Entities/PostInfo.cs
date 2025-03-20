@@ -1,8 +1,11 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace testudv.Domain.Entities;
 
 public class PostInfo
 {
-    public int PostId { get; set; }
+    [Key]
+    public int Id { get; set; }
     public string Domain { get; set; }
     public int Count {get; set;}
     public Dictionary<char, int> LettersCount { get; set; } = new();

@@ -1,3 +1,4 @@
+using System.Linq.Expressions;
 using System.Text.Json;
 using testudv.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
@@ -29,6 +30,8 @@ public class ApplicationDbContext : DbContext
         
         modelBuilder.Entity<PostInfo>(entity =>
         {
+            entity.HasKey(p => p.Id);
+            
             var converter = new ValueConverter<Dictionary<char, int>, string>(
                 v => JsonSerializer.Serialize(v, (JsonSerializerOptions)null), 
                 v => JsonSerializer.Deserialize<Dictionary<char, int>>(v, (JsonSerializerOptions)null) 
@@ -37,10 +40,6 @@ public class ApplicationDbContext : DbContext
             entity.Property(p => p.LettersCount)
                 .HasConversion(converter)
                 .HasColumnType("jsonb");
-        });
-        modelBuilder.Entity<PostInfo>(entity =>
-        {
-            entity.HasKey(p => p.PostId);
         });
     }
 }
