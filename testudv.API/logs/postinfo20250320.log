@@ -1,0 +1,492 @@
+2025-03-20 00:27:35.499 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:27:35.536 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:27:35.536 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:27:35.536 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:27:59.643 +05:00 [INF] Application is shutting down...
+2025-03-20 00:28:02.517 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:28:02.551 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:28:02.552 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:28:02.552 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:28:48.801 +05:00 [INF] Application is shutting down...
+2025-03-20 00:28:55.316 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:28:55.345 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:28:55.345 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:28:55.345 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:29:41.630 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:29:41.659 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:29:41.660 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:29:41.660 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:29:46.715 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:29:46.742 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:29:46.742 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:29:46.743 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:30:02.295 +05:00 [INF] Application is shutting down...
+2025-03-20 00:31:54.715 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:31:54.753 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:31:54.753 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:31:54.753 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:32:26.530 +05:00 [INF] Application is shutting down...
+2025-03-20 00:32:30.997 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:32:31.026 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:32:31.027 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:32:31.027 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:32:39.132 +05:00 [INF] Application is shutting down...
+2025-03-20 00:36:25.993 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:36:26.023 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:36:26.023 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:36:26.023 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:37:07.093 +05:00 [INF] Application is shutting down...
+2025-03-20 00:37:10.893 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:37:10.928 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:37:10.929 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:37:10.930 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:37:21.999 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/ - null null
+2025-03-20 00:37:22.018 +05:00 [WRN] Failed to determine the https port for redirect.
+2025-03-20 00:37:22.032 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/ - 404 0 null 35.0975ms
+2025-03-20 00:37:22.047 +05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5143/, Response status code: 404
+2025-03-20 00:37:24.150 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/index.html - null null
+2025-03-20 00:37:24.204 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/index.html - 200 null text/html;charset=utf-8 54.4316ms
+2025-03-20 00:37:24.297 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/index.js - null null
+2025-03-20 00:37:24.301 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/index.js - 200 null application/javascript;charset=utf-8 3.8924ms
+2025-03-20 00:37:24.580 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/v1/swagger.json - null null
+2025-03-20 00:37:24.649 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 69.1599ms
+2025-03-20 00:39:49.596 +05:00 [INF] Request starting HTTP/1.1 POST http://localhost:5143/api/Posts?domain=win95.exe.file&count=5 - null 0
+2025-03-20 00:39:49.604 +05:00 [INF] CORS policy execution failed.
+2025-03-20 00:39:49.606 +05:00 [INF] Request origin http://localhost:5143 does not have permission to access the resource.
+2025-03-20 00:39:49.613 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 00:39:49.636 +05:00 [INF] Route matched with {action = "AddPostLetters", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddPostLetters(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 00:39:49.654 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) - Validation state: "Valid"
+2025-03-20 00:39:49.706 +05:00 [INF] Начало выполнения команды для Domain=win95.exe.file, Count=5
+2025-03-20 00:39:49.711 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:39:49.712 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:39:50.168 +05:00 [INF] Received HTTP response headers after 452.9764ms - 200
+2025-03-20 00:39:50.170 +05:00 [INF] End processing HTTP request after 460.0376ms - 200
+2025-03-20 00:39:50.276 +05:00 [INF] Начало подсчета букв...
+2025-03-20 00:39:50.277 +05:00 [INF] Подсчет завершился успешно. Было обработано 668 букв.
+2025-03-20 00:39:50.278 +05:00 [INF] Подсчет успешно завершён.
+2025-03-20 00:39:51.371 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1712.4773ms.
+2025-03-20 00:39:51.379 +05:00 [INF] Executing OkObjectResult, writing value of type 'testudv.Application.Dtos.PostInfoDto'.
+2025-03-20 00:39:51.394 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) in 1752.6369ms
+2025-03-20 00:39:51.395 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 00:39:51.410 +05:00 [INF] Request finished HTTP/1.1 POST http://localhost:5143/api/Posts?domain=win95.exe.file&count=5 - 200 null application/json; charset=utf-8 1814.2169ms
+2025-03-20 00:40:38.550 +05:00 [INF] Application is shutting down...
+2025-03-20 00:40:42.141 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:40:42.182 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:40:42.183 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:40:42.184 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:41:14.653 +05:00 [INF] Request starting HTTP/1.1 POST http://localhost:5143/api/Posts?domain=te_ekb&count=5 - null 0
+2025-03-20 00:41:14.672 +05:00 [INF] CORS policy execution failed.
+2025-03-20 00:41:14.673 +05:00 [INF] Request origin http://localhost:5143 does not have permission to access the resource.
+2025-03-20 00:41:14.674 +05:00 [WRN] Failed to determine the https port for redirect.
+2025-03-20 00:41:14.688 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 00:41:14.702 +05:00 [INF] Route matched with {action = "AddPostLetters", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddPostLetters(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 00:41:14.718 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) - Validation state: "Valid"
+2025-03-20 00:41:14.769 +05:00 [INF] Начало выполнения команды для Domain=te_ekb, Count=5
+2025-03-20 00:41:14.774 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:41:14.775 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:41:15.227 +05:00 [INF] Received HTTP response headers after 449.0446ms - 200
+2025-03-20 00:41:15.236 +05:00 [INF] End processing HTTP request after 463.2689ms - 200
+2025-03-20 00:41:15.247 +05:00 [INF] Начало подсчета букв...
+2025-03-20 00:41:15.248 +05:00 [INF] Подсчет завершился успешно. Было обработано 1154 букв.
+2025-03-20 00:41:15.249 +05:00 [INF] Подсчет успешно завершён.
+2025-03-20 00:41:16.173 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1450.6692ms.
+2025-03-20 00:41:16.181 +05:00 [INF] Executing OkObjectResult, writing value of type 'testudv.Application.Dtos.PostInfoDto'.
+2025-03-20 00:41:16.197 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) in 1490.1223ms
+2025-03-20 00:41:16.198 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 00:41:16.214 +05:00 [INF] Request finished HTTP/1.1 POST http://localhost:5143/api/Posts?domain=te_ekb&count=5 - 200 null application/json; charset=utf-8 1562.8881ms
+2025-03-20 00:46:52.611 +05:00 [INF] Application is shutting down...
+2025-03-20 00:46:56.144 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:46:56.207 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:46:56.209 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:46:56.211 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:47:14.177 +05:00 [INF] Request starting HTTP/1.1 POST http://localhost:5143/api/Posts?domain=te_ekb&count=5 - null 0
+2025-03-20 00:47:14.196 +05:00 [INF] CORS policy execution failed.
+2025-03-20 00:47:14.196 +05:00 [INF] Request origin http://localhost:5143 does not have permission to access the resource.
+2025-03-20 00:47:14.198 +05:00 [WRN] Failed to determine the https port for redirect.
+2025-03-20 00:47:14.212 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 00:47:14.226 +05:00 [INF] Route matched with {action = "AddPostLetters", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddPostLetters(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 00:47:14.242 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) - Validation state: "Valid"
+2025-03-20 00:47:14.290 +05:00 [INF] Начало выполнения команды для Domain=te_ekb, Count=5
+2025-03-20 00:47:14.295 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:47:14.296 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:47:14.638 +05:00 [INF] Received HTTP response headers after 339.0197ms - 200
+2025-03-20 00:47:14.646 +05:00 [INF] End processing HTTP request after 352.9142ms - 200
+2025-03-20 00:47:14.657 +05:00 [INF] Начало подсчета букв...
+2025-03-20 00:47:14.659 +05:00 [INF] Подсчет завершился успешно. Было обработано 937 букв.
+2025-03-20 00:47:14.660 +05:00 [INF] Подсчет успешно завершён.
+2025-03-20 00:47:15.596 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1349.6264ms.
+2025-03-20 00:47:15.602 +05:00 [INF] Executing OkObjectResult, writing value of type 'testudv.Application.Dtos.PostInfoDto'.
+2025-03-20 00:47:15.618 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) in 1388.4036ms
+2025-03-20 00:47:15.619 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 00:47:15.633 +05:00 [INF] Request finished HTTP/1.1 POST http://localhost:5143/api/Posts?domain=te_ekb&count=5 - 200 null application/json; charset=utf-8 1457.6226ms
+2025-03-20 00:52:10.555 +05:00 [INF] Application is shutting down...
+2025-03-20 00:52:14.899 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:52:14.939 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:52:14.940 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:52:14.940 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:52:20.762 +05:00 [INF] Request starting HTTP/1.1 POST http://localhost:5143/api/Posts?domain=te_ekb&count=5 - null 0
+2025-03-20 00:52:20.779 +05:00 [INF] CORS policy execution failed.
+2025-03-20 00:52:20.780 +05:00 [INF] Request origin http://localhost:5143 does not have permission to access the resource.
+2025-03-20 00:52:20.781 +05:00 [WRN] Failed to determine the https port for redirect.
+2025-03-20 00:52:20.795 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 00:52:20.809 +05:00 [INF] Route matched with {action = "AddPostLetters", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddPostLetters(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 00:52:20.825 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) - Validation state: "Valid"
+2025-03-20 00:52:20.876 +05:00 [INF] Начало выполнения команды для Domain=te_ekb, Count=5
+2025-03-20 00:52:20.880 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:52:20.881 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:52:21.321 +05:00 [INF] Received HTTP response headers after 437.2183ms - 200
+2025-03-20 00:52:21.329 +05:00 [INF] End processing HTTP request after 450.1751ms - 200
+2025-03-20 00:52:21.344 +05:00 [INF] Начало подсчета букв...
+2025-03-20 00:52:21.344 +05:00 [INF] Подсчет завершился успешно. Было обработано 937 букв.
+2025-03-20 00:52:21.345 +05:00 [INF] Подсчет успешно завершён.
+2025-03-20 00:52:22.273 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1442.9367ms.
+2025-03-20 00:52:22.280 +05:00 [INF] Executing OkObjectResult, writing value of type 'testudv.Application.Dtos.PostInfoDto'.
+2025-03-20 00:52:22.299 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) in 1484.6863ms
+2025-03-20 00:52:22.301 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 00:52:22.318 +05:00 [INF] Request finished HTTP/1.1 POST http://localhost:5143/api/Posts?domain=te_ekb&count=5 - 200 null application/json; charset=utf-8 1557.1109ms
+2025-03-20 00:52:41.955 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=5 - null null
+2025-03-20 00:52:41.961 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:52:41.965 +05:00 [INF] Route matched with {action = "GetPosts", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPosts(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 00:52:41.968 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.GetPosts (testudv.API) - Validation state: "Valid"
+2025-03-20 00:52:41.970 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:52:41.970 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:52:42.102 +05:00 [INF] Received HTTP response headers after 130.8152ms - 200
+2025-03-20 00:52:42.103 +05:00 [INF] End processing HTTP request after 133.1869ms - 200
+2025-03-20 00:52:42.138 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.GetPosts (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 170.0536ms.
+2025-03-20 00:52:42.140 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-03-20 00:52:42.141 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.GetPosts (testudv.API) in 174.3329ms
+2025-03-20 00:52:42.143 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:52:42.144 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=5 - 200 null text/plain; charset=utf-8 189.8185ms
+2025-03-20 00:53:27.431 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=5 - null null
+2025-03-20 00:53:27.435 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:53:27.436 +05:00 [INF] Route matched with {action = "GetPosts", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPosts(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 00:53:27.438 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.GetPosts (testudv.API) - Validation state: "Valid"
+2025-03-20 00:53:27.440 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:53:27.440 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:53:27.547 +05:00 [INF] Received HTTP response headers after 105.941ms - 200
+2025-03-20 00:53:27.549 +05:00 [INF] End processing HTTP request after 108.9997ms - 200
+2025-03-20 00:53:27.584 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.GetPosts (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 145.0765ms.
+2025-03-20 00:53:27.586 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-03-20 00:53:27.587 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.GetPosts (testudv.API) in 149.6645ms
+2025-03-20 00:53:27.589 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:53:27.590 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=5 - 200 null text/plain; charset=utf-8 158.9132ms
+2025-03-20 00:53:48.133 +05:00 [INF] Application is shutting down...
+2025-03-20 00:53:51.819 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:53:51.862 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:53:51.863 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:53:51.863 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:53:54.035 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=5 - null null
+2025-03-20 00:53:54.058 +05:00 [WRN] Failed to determine the https port for redirect.
+2025-03-20 00:53:54.072 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:53:54.087 +05:00 [INF] Route matched with {action = "GetPosts", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPosts(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 00:53:54.103 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.GetPosts (testudv.API) - Validation state: "Valid"
+2025-03-20 00:53:54.115 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:53:54.116 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:53:54.558 +05:00 [INF] Received HTTP response headers after 438.6491ms - 200
+2025-03-20 00:53:54.565 +05:00 [INF] End processing HTTP request after 451.1808ms - 200
+2025-03-20 00:53:54.580 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.GetPosts (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 471.9436ms.
+2025-03-20 00:53:54.587 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-03-20 00:53:54.594 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.GetPosts (testudv.API) in 502.0463ms
+2025-03-20 00:53:54.595 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:53:54.599 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=5 - 200 null text/plain; charset=utf-8 565.9824ms
+2025-03-20 00:54:21.062 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=6 - null null
+2025-03-20 00:54:21.066 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:54:21.067 +05:00 [INF] Route matched with {action = "GetPosts", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPosts(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 00:54:21.069 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.GetPosts (testudv.API) - Validation state: "Valid"
+2025-03-20 00:54:21.070 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:54:21.071 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:54:21.204 +05:00 [INF] Received HTTP response headers after 132.1643ms - 200
+2025-03-20 00:54:21.206 +05:00 [INF] End processing HTTP request after 136.0167ms - 200
+2025-03-20 00:54:21.238 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.GetPosts (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 168.7048ms.
+2025-03-20 00:54:21.240 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-03-20 00:54:21.241 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.GetPosts (testudv.API) in 173.3397ms
+2025-03-20 00:54:21.242 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:54:21.244 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=6 - 200 null text/plain; charset=utf-8 182.1404ms
+2025-03-20 00:54:24.005 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=1 - null null
+2025-03-20 00:54:24.008 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:54:24.009 +05:00 [INF] Route matched with {action = "GetPosts", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPosts(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 00:54:24.010 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.GetPosts (testudv.API) - Validation state: "Valid"
+2025-03-20 00:54:24.011 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:54:24.012 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:54:24.105 +05:00 [INF] Received HTTP response headers after 92.0315ms - 200
+2025-03-20 00:54:24.106 +05:00 [INF] End processing HTTP request after 94.9547ms - 200
+2025-03-20 00:54:24.109 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.GetPosts (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 97.8473ms.
+2025-03-20 00:54:24.110 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-03-20 00:54:24.111 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.GetPosts (testudv.API) in 101.2667ms
+2025-03-20 00:54:24.112 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:54:24.113 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=1 - 200 null text/plain; charset=utf-8 108.5159ms
+2025-03-20 00:54:42.074 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=5 - null null
+2025-03-20 00:54:42.081 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:54:42.082 +05:00 [INF] Route matched with {action = "GetPosts", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPosts(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 00:54:42.084 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.GetPosts (testudv.API) - Validation state: "Valid"
+2025-03-20 00:54:42.085 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:54:42.087 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:54:42.208 +05:00 [INF] Received HTTP response headers after 118.553ms - 200
+2025-03-20 00:54:42.210 +05:00 [INF] End processing HTTP request after 124.6674ms - 200
+2025-03-20 00:54:42.245 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.GetPosts (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 160.1669ms.
+2025-03-20 00:54:42.247 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-03-20 00:54:42.249 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.GetPosts (testudv.API) in 165.291ms
+2025-03-20 00:54:42.250 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:54:42.252 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=5 - 200 null text/plain; charset=utf-8 177.9384ms
+2025-03-20 00:55:14.424 +05:00 [INF] Application is shutting down...
+2025-03-20 00:55:17.977 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 00:55:18.018 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 00:55:18.019 +05:00 [INF] Hosting environment: Development
+2025-03-20 00:55:18.019 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 00:55:21.444 +05:00 [INF] Request starting HTTP/1.1 POST http://localhost:5143/api/Posts?domain=te_ekb&count=5 - null 0
+2025-03-20 00:55:21.461 +05:00 [INF] CORS policy execution failed.
+2025-03-20 00:55:21.462 +05:00 [INF] Request origin http://localhost:5143 does not have permission to access the resource.
+2025-03-20 00:55:21.463 +05:00 [WRN] Failed to determine the https port for redirect.
+2025-03-20 00:55:21.480 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 00:55:21.493 +05:00 [INF] Route matched with {action = "AddPostLetters", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddPostLetters(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 00:55:21.508 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) - Validation state: "Valid"
+2025-03-20 00:55:21.556 +05:00 [INF] Начало выполнения команды для Domain=te_ekb, Count=5
+2025-03-20 00:55:21.561 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:55:21.562 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:55:22.030 +05:00 [INF] Received HTTP response headers after 465.401ms - 200
+2025-03-20 00:55:22.038 +05:00 [INF] End processing HTTP request after 477.9543ms - 200
+2025-03-20 00:55:22.049 +05:00 [INF] Начало подсчета букв...
+2025-03-20 00:55:22.049 +05:00 [INF] Подсчет завершился успешно. Было обработано 937 букв.
+2025-03-20 00:55:22.050 +05:00 [INF] Подсчет успешно завершён.
+2025-03-20 00:55:23.016 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1503.2696ms.
+2025-03-20 00:55:23.024 +05:00 [INF] Executing OkObjectResult, writing value of type 'testudv.Application.Dtos.PostInfoDto'.
+2025-03-20 00:55:23.039 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) in 1541.8456ms
+2025-03-20 00:55:23.041 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 00:55:23.057 +05:00 [INF] Request finished HTTP/1.1 POST http://localhost:5143/api/Posts?domain=te_ekb&count=5 - 200 null application/json; charset=utf-8 1614.3487ms
+2025-03-20 00:55:29.464 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=5 - null null
+2025-03-20 00:55:29.470 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:55:29.475 +05:00 [INF] Route matched with {action = "GetPosts", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPosts(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 00:55:29.477 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.GetPosts (testudv.API) - Validation state: "Valid"
+2025-03-20 00:55:29.479 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:55:29.480 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 00:55:29.588 +05:00 [INF] Received HTTP response headers after 107.5089ms - 200
+2025-03-20 00:55:29.589 +05:00 [INF] End processing HTTP request after 110.2244ms - 200
+2025-03-20 00:55:29.627 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.GetPosts (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 148.8576ms.
+2025-03-20 00:55:29.630 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-03-20 00:55:29.631 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.GetPosts (testudv.API) in 154.9915ms
+2025-03-20 00:55:29.632 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 00:55:29.633 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/api/Posts?domain=te_ekb&count=5 - 200 null text/plain; charset=utf-8 169.722ms
+2025-03-20 01:03:32.159 +05:00 [INF] Request starting HTTP/1.1 POST http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - null 0
+2025-03-20 01:03:32.169 +05:00 [INF] CORS policy execution failed.
+2025-03-20 01:03:32.172 +05:00 [INF] Request origin http://localhost:5143 does not have permission to access the resource.
+2025-03-20 01:03:32.173 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 01:03:32.175 +05:00 [INF] Route matched with {action = "AddPostLetters", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddPostLetters(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 01:03:32.178 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) - Validation state: "Valid"
+2025-03-20 01:03:32.182 +05:00 [INF] Начало выполнения команды для Domain=antropogenez_ru, Count=5
+2025-03-20 01:03:32.183 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:03:32.183 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:03:32.493 +05:00 [INF] Received HTTP response headers after 308.7991ms - 200
+2025-03-20 01:03:32.494 +05:00 [INF] End processing HTTP request after 311.2405ms - 200
+2025-03-20 01:03:32.598 +05:00 [INF] Начало подсчета букв...
+2025-03-20 01:03:32.600 +05:00 [INF] Подсчет завершился успешно. Было обработано 8783 букв.
+2025-03-20 01:03:32.600 +05:00 [INF] Подсчет успешно завершён.
+2025-03-20 01:03:32.685 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 506.8057ms.
+2025-03-20 01:03:32.686 +05:00 [INF] Executing OkObjectResult, writing value of type 'testudv.Application.Dtos.PostInfoDto'.
+2025-03-20 01:03:32.687 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) in 510.4073ms
+2025-03-20 01:03:32.687 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 01:03:32.688 +05:00 [INF] Request finished HTTP/1.1 POST http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - 200 null application/json; charset=utf-8 529.5778ms
+2025-03-20 01:04:20.449 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - null null
+2025-03-20 01:04:20.453 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 01:04:20.454 +05:00 [INF] Route matched with {action = "GetPosts", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPosts(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 01:04:20.455 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.GetPosts (testudv.API) - Validation state: "Valid"
+2025-03-20 01:04:20.457 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:04:20.458 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:04:20.603 +05:00 [INF] Received HTTP response headers after 144.0324ms - 200
+2025-03-20 01:04:20.605 +05:00 [INF] End processing HTTP request after 148.2482ms - 200
+2025-03-20 01:04:20.709 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.GetPosts (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 252.8295ms.
+2025-03-20 01:04:20.710 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-03-20 01:04:20.711 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.GetPosts (testudv.API) in 256.3314ms
+2025-03-20 01:04:20.712 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 01:04:20.713 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - 200 null text/plain; charset=utf-8 263.7948ms
+2025-03-20 01:10:31.663 +05:00 [INF] Application is shutting down...
+2025-03-20 01:10:38.143 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 01:10:38.181 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 01:10:38.182 +05:00 [INF] Hosting environment: Development
+2025-03-20 01:10:38.182 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 01:10:42.827 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - null null
+2025-03-20 01:10:42.846 +05:00 [WRN] Failed to determine the https port for redirect.
+2025-03-20 01:10:42.860 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 01:10:42.872 +05:00 [INF] Route matched with {action = "GetPosts", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPosts(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 01:10:42.888 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.GetPosts (testudv.API) - Validation state: "Valid"
+2025-03-20 01:10:42.900 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:10:42.901 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:10:43.379 +05:00 [INF] Received HTTP response headers after 475.2482ms - 200
+2025-03-20 01:10:43.390 +05:00 [INF] End processing HTTP request after 491.9707ms - 200
+2025-03-20 01:10:43.479 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.GetPosts (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 582.6121ms.
+2025-03-20 01:10:43.488 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-03-20 01:10:43.497 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.GetPosts (testudv.API) in 618.3568ms
+2025-03-20 01:10:43.499 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 01:10:43.506 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - 200 null text/plain; charset=utf-8 680.8652ms
+2025-03-20 01:10:46.321 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - null null
+2025-03-20 01:10:46.325 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 01:10:46.326 +05:00 [INF] Route matched with {action = "GetPosts", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPosts(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 01:10:46.328 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.GetPosts (testudv.API) - Validation state: "Valid"
+2025-03-20 01:10:46.329 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:10:46.330 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:10:46.481 +05:00 [INF] Received HTTP response headers after 151.1235ms - 200
+2025-03-20 01:10:46.482 +05:00 [INF] End processing HTTP request after 153.5288ms - 200
+2025-03-20 01:10:46.585 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.GetPosts (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 256.4845ms.
+2025-03-20 01:10:46.587 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-03-20 01:10:46.589 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.GetPosts (testudv.API) in 261.4199ms
+2025-03-20 01:10:46.590 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 01:10:46.590 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - 200 null text/plain; charset=utf-8 270.5383ms
+2025-03-20 01:11:20.146 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/api/Posts?domain=sea_like_me&count=5 - null null
+2025-03-20 01:11:20.149 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 01:11:20.150 +05:00 [INF] Route matched with {action = "GetPosts", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPosts(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 01:11:20.152 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.GetPosts (testudv.API) - Validation state: "Valid"
+2025-03-20 01:11:20.154 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:11:20.154 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:11:20.348 +05:00 [INF] Received HTTP response headers after 193.1525ms - 200
+2025-03-20 01:11:20.349 +05:00 [INF] End processing HTTP request after 195.9197ms - 200
+2025-03-20 01:11:20.452 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.GetPosts (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 298.3096ms.
+2025-03-20 01:11:20.453 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-03-20 01:11:20.454 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.GetPosts (testudv.API) in 302.6536ms
+2025-03-20 01:11:20.455 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 01:11:20.456 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/api/Posts?domain=sea_like_me&count=5 - 200 null text/plain; charset=utf-8 310.2614ms
+2025-03-20 01:11:23.284 +05:00 [INF] Request starting HTTP/1.1 POST http://localhost:5143/api/Posts?domain=sea_like_me&count=5 - null 0
+2025-03-20 01:11:23.287 +05:00 [INF] CORS policy execution successful.
+2025-03-20 01:11:23.288 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 01:11:23.292 +05:00 [INF] Route matched with {action = "AddPostLetters", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddPostLetters(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 01:11:23.294 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) - Validation state: "Valid"
+2025-03-20 01:11:23.335 +05:00 [INF] Начало выполнения команды для Domain=sea_like_me, Count=5
+2025-03-20 01:11:23.335 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:11:23.336 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:11:23.514 +05:00 [INF] Received HTTP response headers after 177.7638ms - 200
+2025-03-20 01:11:23.515 +05:00 [INF] End processing HTTP request after 179.6352ms - 200
+2025-03-20 01:11:23.621 +05:00 [INF] Начало подсчета букв...
+2025-03-20 01:11:23.622 +05:00 [INF] Подсчет завершился успешно. Было обработано 9854 букв.
+2025-03-20 01:11:24.592 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1298.126ms.
+2025-03-20 01:11:24.594 +05:00 [INF] Executing OkObjectResult, writing value of type 'testudv.Application.Dtos.PostInfoDto'.
+2025-03-20 01:11:24.605 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) in 1311.689ms
+2025-03-20 01:11:24.606 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 01:11:24.614 +05:00 [INF] Request finished HTTP/1.1 POST http://localhost:5143/api/Posts?domain=sea_like_me&count=5 - 200 null application/json; charset=utf-8 1330.0719ms
+2025-03-20 01:38:24.916 +05:00 [INF] Application is shutting down...
+2025-03-20 01:38:31.119 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 01:38:31.162 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 01:38:31.163 +05:00 [INF] Hosting environment: Development
+2025-03-20 01:38:31.163 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 01:38:36.002 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/index.html - null null
+2025-03-20 01:38:36.257 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/index.html - 200 null text/html;charset=utf-8 256.4965ms
+2025-03-20 01:38:36.411 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/swagger-ui.css - null null
+2025-03-20 01:38:36.421 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/index.css - null null
+2025-03-20 01:38:36.421 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/swagger-ui-bundle.js - null null
+2025-03-20 01:38:36.421 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/swagger-ui-standalone-preset.js - null null
+2025-03-20 01:38:36.422 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/index.js - null null
+2025-03-20 01:38:36.483 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/index.js - 200 null application/javascript;charset=utf-8 61.3983ms
+2025-03-20 01:38:36.489 +05:00 [INF] The file /index.css was not modified
+2025-03-20 01:38:36.489 +05:00 [INF] The file /swagger-ui-bundle.js was not modified
+2025-03-20 01:38:36.489 +05:00 [INF] The file /swagger-ui.css was not modified
+2025-03-20 01:38:36.489 +05:00 [INF] The file /swagger-ui-standalone-preset.js was not modified
+2025-03-20 01:38:36.490 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/index.css - 304 null text/css 68.9413ms
+2025-03-20 01:38:36.490 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/swagger-ui-bundle.js - 304 null text/javascript 69.3187ms
+2025-03-20 01:38:36.491 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/swagger-ui.css - 304 null text/css 79.9403ms
+2025-03-20 01:38:36.492 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/swagger-ui-standalone-preset.js - 304 null text/javascript 70.5805ms
+2025-03-20 01:38:36.786 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/favicon-32x32.png - null null
+2025-03-20 01:38:36.786 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/v1/swagger.json - null null
+2025-03-20 01:38:36.787 +05:00 [INF] The file /favicon-32x32.png was not modified
+2025-03-20 01:38:36.789 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/favicon-32x32.png - 304 null image/png 3.1109ms
+2025-03-20 01:38:36.929 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 143.2577ms
+2025-03-20 01:38:50.582 +05:00 [INF] Request starting HTTP/1.1 POST http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - null 0
+2025-03-20 01:38:50.586 +05:00 [INF] CORS policy execution successful.
+2025-03-20 01:38:50.587 +05:00 [WRN] Failed to determine the https port for redirect.
+2025-03-20 01:38:50.600 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 01:38:50.615 +05:00 [INF] Route matched with {action = "AddPostLetters", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddPostLetters(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 01:38:50.631 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) - Validation state: "Valid"
+2025-03-20 01:38:50.678 +05:00 [INF] Начало выполнения команды для Domain=antropogenez_ru, Count=5
+2025-03-20 01:38:50.683 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:38:50.684 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:38:51.087 +05:00 [INF] Received HTTP response headers after 399.8368ms - 200
+2025-03-20 01:38:51.089 +05:00 [INF] End processing HTTP request after 407.4303ms - 200
+2025-03-20 01:38:51.189 +05:00 [INF] Начало подсчета букв...
+2025-03-20 01:38:51.192 +05:00 [INF] Подсчет завершился успешно. Было обработано 8783 букв.
+2025-03-20 01:38:52.107 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1471.0427ms.
+2025-03-20 01:38:52.114 +05:00 [INF] Executing OkObjectResult, writing value of type 'testudv.Application.Dtos.PostInfoDto'.
+2025-03-20 01:38:52.128 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) in 1508.7324ms
+2025-03-20 01:38:52.129 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 01:38:52.140 +05:00 [INF] Request finished HTTP/1.1 POST http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - 200 null application/json; charset=utf-8 1557.9246ms
+2025-03-20 01:39:26.496 +05:00 [INF] Application is shutting down...
+2025-03-20 01:39:30.081 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 01:39:30.169 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 01:39:30.172 +05:00 [INF] Hosting environment: Development
+2025-03-20 01:39:30.179 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 01:39:32.301 +05:00 [INF] Request starting HTTP/1.1 POST http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - null 0
+2025-03-20 01:39:32.321 +05:00 [INF] CORS policy execution successful.
+2025-03-20 01:39:32.322 +05:00 [WRN] Failed to determine the https port for redirect.
+2025-03-20 01:39:32.339 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 01:39:32.355 +05:00 [INF] Route matched with {action = "AddPostLetters", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddPostLetters(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 01:39:32.376 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) - Validation state: "Valid"
+2025-03-20 01:39:32.429 +05:00 [INF] Начало выполнения команды для Domain=antropogenez_ru, Count=5
+2025-03-20 01:39:32.434 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:39:32.435 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:39:32.782 +05:00 [INF] Received HTTP response headers after 343.8606ms - 200
+2025-03-20 01:39:32.789 +05:00 [INF] End processing HTTP request after 356.9303ms - 200
+2025-03-20 01:39:32.879 +05:00 [INF] Начало подсчета букв...
+2025-03-20 01:39:32.880 +05:00 [INF] Подсчет завершился успешно. Было обработано 8783 букв.
+2025-03-20 01:39:33.836 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1453.9422ms.
+2025-03-20 01:39:33.842 +05:00 [INF] Executing OkObjectResult, writing value of type 'testudv.Application.Dtos.PostInfoDto'.
+2025-03-20 01:39:33.857 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) in 1498.1341ms
+2025-03-20 01:39:33.859 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 01:39:33.876 +05:00 [INF] Request finished HTTP/1.1 POST http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - 200 null application/json; charset=utf-8 1575.8749ms
+2025-03-20 01:39:54.963 +05:00 [INF] Application is shutting down...
+2025-03-20 01:39:58.378 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 01:39:58.467 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 01:39:58.478 +05:00 [INF] Hosting environment: Development
+2025-03-20 01:39:58.484 +05:00 [INF] Content root path: C:\Users\Kotian\RiderProjects\testudv\testudv.API
+2025-03-20 01:40:01.078 +05:00 [INF] Request starting HTTP/1.1 POST http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - null 0
+2025-03-20 01:40:01.095 +05:00 [INF] CORS policy execution successful.
+2025-03-20 01:40:01.096 +05:00 [WRN] Failed to determine the https port for redirect.
+2025-03-20 01:40:01.113 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 01:40:01.126 +05:00 [INF] Route matched with {action = "AddPostLetters", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddPostLetters(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 01:40:01.142 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) - Validation state: "Valid"
+2025-03-20 01:40:01.195 +05:00 [INF] Начало выполнения команды для Domain=antropogenez_ru, Count=5
+2025-03-20 01:40:01.203 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:40:01.204 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 01:40:01.579 +05:00 [INF] Received HTTP response headers after 371.7885ms - 200
+2025-03-20 01:40:01.587 +05:00 [INF] End processing HTTP request after 386.7169ms - 200
+2025-03-20 01:40:01.677 +05:00 [INF] Начало подсчета букв...
+2025-03-20 01:40:01.678 +05:00 [INF] Подсчет завершился успешно. Было обработано 8783 букв.
+2025-03-20 01:40:02.627 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.AddPostLetters (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1478.6081ms.
+2025-03-20 01:40:02.635 +05:00 [INF] Executing OkObjectResult, writing value of type 'testudv.Application.Dtos.PostInfoDto'.
+2025-03-20 01:40:02.650 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.AddPostLetters (testudv.API) in 1520.0598ms
+2025-03-20 01:40:02.652 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.AddPostLetters (testudv.API)'
+2025-03-20 01:40:02.664 +05:00 [INF] Request finished HTTP/1.1 POST http://localhost:5143/api/Posts?domain=antropogenez_ru&count=5 - 200 null application/json; charset=utf-8 1587.8781ms
+2025-03-20 02:01:06.617 +05:00 [INF] Application is shutting down...
+2025-03-20 15:32:21.194 +05:00 [INF] Now listening on: http://localhost:5143
+2025-03-20 15:32:21.246 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 15:32:21.247 +05:00 [INF] Hosting environment: Development
+2025-03-20 15:32:21.248 +05:00 [INF] Content root path: C:\Users\Kotian\testudv\testudv.API
+2025-03-20 15:32:28.272 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/index.html - null null
+2025-03-20 15:32:28.356 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/index.html - 200 null text/html;charset=utf-8 85.5323ms
+2025-03-20 15:32:28.412 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/swagger-ui.css - null null
+2025-03-20 15:32:28.416 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/index.js - null null
+2025-03-20 15:32:28.417 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/index.css - null null
+2025-03-20 15:32:28.417 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/swagger-ui-bundle.js - null null
+2025-03-20 15:32:28.417 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/swagger-ui-standalone-preset.js - null null
+2025-03-20 15:32:28.420 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/index.js - 200 null application/javascript;charset=utf-8 4.437ms
+2025-03-20 15:32:28.425 +05:00 [INF] The file /swagger-ui-bundle.js was not modified
+2025-03-20 15:32:28.425 +05:00 [INF] The file /swagger-ui-standalone-preset.js was not modified
+2025-03-20 15:32:28.425 +05:00 [INF] The file /swagger-ui.css was not modified
+2025-03-20 15:32:28.425 +05:00 [INF] The file /index.css was not modified
+2025-03-20 15:32:28.427 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/swagger-ui-bundle.js - 304 null text/javascript 9.8085ms
+2025-03-20 15:32:28.428 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/swagger-ui-standalone-preset.js - 304 null text/javascript 10.4199ms
+2025-03-20 15:32:28.429 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/swagger-ui.css - 304 null text/css 17.5999ms
+2025-03-20 15:32:28.429 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/index.css - 304 null text/css 12.5931ms
+2025-03-20 15:32:28.768 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/v1/swagger.json - null null
+2025-03-20 15:32:28.771 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/swagger/favicon-32x32.png - null null
+2025-03-20 15:32:28.773 +05:00 [INF] The file /favicon-32x32.png was not modified
+2025-03-20 15:32:28.774 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/favicon-32x32.png - 304 null image/png 2.3651ms
+2025-03-20 15:32:28.842 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 74.2717ms
+2025-03-20 15:32:39.375 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5143/api/Posts?domain=iot_third_urfu&count=5 - null null
+2025-03-20 15:32:39.382 +05:00 [WRN] Failed to determine the https port for redirect.
+2025-03-20 15:32:39.400 +05:00 [INF] Executing endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 15:32:39.422 +05:00 [INF] Route matched with {action = "GetPosts", controller = "Posts"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPosts(System.String, Int32) on controller testudv.API.Controllers.PostsController (testudv.API).
+2025-03-20 15:32:39.441 +05:00 [INF] Executing action method testudv.API.Controllers.PostsController.GetPosts (testudv.API) - Validation state: "Valid"
+2025-03-20 15:32:39.462 +05:00 [INF] Start processing HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 15:32:39.463 +05:00 [INF] Sending HTTP request GET https://api.vk.com/method/wall.get?*
+2025-03-20 15:32:39.857 +05:00 [INF] Received HTTP response headers after 389.4955ms - 200
+2025-03-20 15:32:39.859 +05:00 [INF] End processing HTTP request after 399.0584ms - 200
+2025-03-20 15:32:39.883 +05:00 [INF] Executed action method testudv.API.Controllers.PostsController.GetPosts (testudv.API), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 436.8563ms.
+2025-03-20 15:32:39.893 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-03-20 15:32:39.899 +05:00 [INF] Executed action testudv.API.Controllers.PostsController.GetPosts (testudv.API) in 472.8338ms
+2025-03-20 15:32:39.901 +05:00 [INF] Executed endpoint 'testudv.API.Controllers.PostsController.GetPosts (testudv.API)'
+2025-03-20 15:32:39.905 +05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5143/api/Posts?domain=iot_third_urfu&count=5 - 200 null text/plain; charset=utf-8 530.3297ms
