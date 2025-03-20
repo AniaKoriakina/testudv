@@ -12,11 +12,11 @@ public class CreatePostInfoHandler : IRequestHandler<CreatePostInfoCommand, Post
 {
     private readonly IPostInfoRepository _postInfoRepository;
     private readonly ILogger<CreatePostInfoHandler> _logger;
-    private readonly PostService _postService;
+    private readonly IPostService _postService;
 
     public CreatePostInfoHandler(
         IPostInfoRepository postInfoRepository, 
-        PostService postService, 
+        IPostService postService, 
         ILogger<CreatePostInfoHandler> logger)
     {
         _postInfoRepository = postInfoRepository;
@@ -52,7 +52,6 @@ public class CreatePostInfoHandler : IRequestHandler<CreatePostInfoCommand, Post
         var sortedPostInfoDict = postInfoDict
             .OrderBy(c => alphabet.IndexOf(c.Key))
             .ToDictionary(c => c.Key, c => c.Value);
-        await _postInfoRepository.SaveAnalysisAsync(postInfo);
         return new PostInfoDto(
             request.Domain,
             request.Count,

@@ -30,18 +30,13 @@ builder.Services.AddScoped<IPostInfoRepository, PostInfoRepository>();
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(GetPostsHandler).Assembly));
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(CreatePostInfoHandler).Assembly));
 
-
-builder.Services.AddHttpClient<PostService>((provider, client) =>
+builder.Services.AddHttpClient("VkApi", client =>
 {
-    client.BaseAddress = new Uri("https://api.vk.com/method/");
+    client.BaseAddress = new Uri("https://api.vk.com/");
 });
+builder.Services.AddScoped<IPostService, PostService>();
 
-builder.Services.AddSingleton(provider =>
-{
-    var token = builder.Configuration["VkApi:AccessToken"];
-    var httpClient = provider.GetRequiredService<HttpClient>();
-    return new PostService(httpClient, token);
-});
+builder.Services.AddSingleton(builder.Configuration["VkApi:AccessToken"]);
 
 builder.Services.AddCors(options =>
 {

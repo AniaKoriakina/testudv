@@ -18,6 +18,15 @@ public class PostsController : ControllerBase
     [HttpGet]
     public async Task<IActionResult> GetPosts([FromQuery] string domain, [FromQuery] int count)
     {
+        if (string.IsNullOrWhiteSpace(domain))
+        {
+            return BadRequest("Domain cannot be empty.");
+        }
+
+        if (count <= 0)
+        {
+            return BadRequest("Count must be greater than zero.");
+        }
         var query = new GetPostsCommand { Domain = domain, Count = count };
         var result = await _mediator.Send(query);
         return Ok(result);
@@ -26,6 +35,15 @@ public class PostsController : ControllerBase
     [HttpPost]
     public async Task<IActionResult> AddPostLetters([FromQuery] string domain, [FromQuery] int count)
     {
+        if (string.IsNullOrWhiteSpace(domain))
+        {
+            return BadRequest("Domain cannot be empty.");
+        }
+
+        if (count <= 0)
+        {
+            return BadRequest("Count must be greater than zero.");
+        }
         var query = new CreatePostInfoCommand { Domain = domain, Count = count };
         var result = await _mediator.Send(query);
         return Ok(result);

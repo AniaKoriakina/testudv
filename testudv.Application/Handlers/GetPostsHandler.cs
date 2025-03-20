@@ -8,9 +8,9 @@ namespace testudv.Application.Handlers;
 
 public class GetPostsHandler : IRequestHandler<GetPostsCommand, string>
 {
-    private readonly PostService _postService;
+    private readonly IPostService _postService;
 
-    public GetPostsHandler(PostService postService)
+    public GetPostsHandler(IPostService postService)
     {
         _postService = postService;
     }

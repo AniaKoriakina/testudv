@@ -5,7 +5,7 @@ using testudv.Domain.Entities;
 
 namespace testudv.Application.Services;
 
-public class PostService
+public class PostService : IPostService
 {
     private readonly HttpClient _httpClient;
     private readonly string _serviceToken;
