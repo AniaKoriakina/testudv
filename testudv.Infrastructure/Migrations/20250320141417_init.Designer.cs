@@ -11,7 +11,7 @@ using testudv.Infrastructure.Data;
 namespace testudv.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250320131540_init")]
+    [Migration("20250320141417_init")]
     partial class init
     {
         /// <inheritdoc />
@@ -45,7 +45,7 @@ namespace testudv.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("PostsInfo");
+                    b.ToTable("PostsInfo", (string)null);
                 });
 #pragma warning restore 612, 618
         }

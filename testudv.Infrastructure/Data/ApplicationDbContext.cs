@@ -20,7 +20,7 @@ public class ApplicationDbContext : DbContext
     {
         if (!optionsBuilder.IsConfigured)
         {
-            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=vkposts;Username=postgres;Password=7825");
+            optionsBuilder.UseNpgsql("Host=postgres;Port=5432;Database=vkposts;Username=postgres;Password=7825;");
         }
     }
 
@@ -30,7 +30,11 @@ public class ApplicationDbContext : DbContext
         
         modelBuilder.Entity<PostInfo>(entity =>
         {
+            entity.ToTable("PostsInfo");
             entity.HasKey(p => p.Id);
+            
+            entity.Property(p => p.Domain).IsRequired();
+            entity.Property(p => p.Count).IsRequired();
             
             var converter = new ValueConverter<Dictionary<char, int>, string>(
                 v => JsonSerializer.Serialize(v, (JsonSerializerOptions)null), 

@@ -1,23 +1,23 @@
-﻿FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS base
-USER $APP_UID
+﻿# Base image
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS base
 WORKDIR /app
 EXPOSE 8080
-EXPOSE 8081
 
+# Build stage
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
-ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["testudv/testudv.csproj", "testudv/"]
-RUN dotnet restore "testudv/testudv.csproj"
+COPY ["testudv.API/testudv.API.csproj", "testudv.API/"]
+RUN dotnet restore "testudv.API/testudv.API.csproj"
 COPY . .
-WORKDIR "/src/testudv"
-RUN dotnet build "testudv.csproj" -c $BUILD_CONFIGURATION -o /app/build
+WORKDIR "/src/testudv.API"
+RUN dotnet build "testudv.API.csproj" -c Release -o /app/build
 
+# Publish stage
 FROM build AS publish
-ARG BUILD_CONFIGURATION=Release
-RUN dotnet publish "testudv.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+RUN dotnet publish "testudv.API.csproj" -c Release -o /app/publish
 
+# Final stage
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "testudv.dll"]
+ENTRYPOINT ["dotnet", "testudv.API.dll"]

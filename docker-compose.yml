@@ -1,0 +1,34 @@
+version: '3'
+services:
+  postgres:
+    image: postgres:15
+    container_name: vkposts_dev
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 7825
+      POSTGRES_DB: vkposts
+    volumes:
+      - ./dump/vkposts_backup.sql:/docker-entrypoint-initdb.d/vkposts_backup.sql
+    ports:
+      - "5432:5432"
+    networks:
+      - vkposts-network
+
+  api:
+    build:
+      context: .
+      dockerfile: ./testudv.API/Dockerfile
+    container_name: vkposts_api
+    depends_on:
+      - postgres
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - CONNECTION_STRING=Host=postgres;Port=5432;Database=vkposts;Username=postgres;Password=7825;
+    ports:
+      - "5143:8080"
+    networks:
+      - vkposts-network
+
+networks:
+  vkposts-network:
+    driver: bridge
