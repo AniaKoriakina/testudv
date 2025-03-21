@@ -1,6 +1,9 @@
+using FluentValidation;
 using Serilog;
+using testudv.Application.Commands;
 using testudv.Application.Handlers;
 using testudv.Application.Services;
+using testudv.Application.Validators;
 using testudv.Domain.Interfaces;
 using testudv.Infrastructure.Data;
 using testudv.Infrastructure.Repositories;
@@ -24,6 +27,8 @@ if (!Directory.Exists("logs"))
 }
 
 builder.Host.UseSerilog();
+builder.Services.AddScoped<IValidator<GetPostsCommand>, GetPostsValidator>();
+builder.Services.AddScoped<IValidator<CreatePostsInfoCommand>, CreatePostsInfoValidator>();
 
 builder.Services.AddScoped<IPostInfoRepository, PostInfoRepository>();
 

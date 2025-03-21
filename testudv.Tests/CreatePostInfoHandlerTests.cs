@@ -33,7 +33,7 @@ public class CreatePostInfoHandlerTests
         var domain = "test_domain";
         var count = 5;
         var text = "абвгдабббвв";
-        var command = new CreatePostInfoCommand { Domain = domain, Count = count };
+        var command = new CreatePostsInfoCommand { Domain = domain, Count = count };
 
         _postServiceMock.Setup(service => service.GetPostsAsync(domain, count))
             .ReturnsAsync(text);

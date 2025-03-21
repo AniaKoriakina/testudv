@@ -1,6 +1,7 @@
 using System.Text.Json;
 using Microsoft.Extensions.Configuration;
 using testudv.Application.Dtos;
+using testudv.Application.Exceptions;
 using testudv.Domain.Entities;
 
 namespace testudv.Application.Services;
@@ -38,6 +39,14 @@ public class PostService : IPostService
 
             using var jsonDocument = JsonDocument.Parse(content);
             var root = jsonDocument.RootElement;
+            
+            
+            if (root.TryGetProperty("error", out var errors))
+            {
+                var errorCode = errors.GetProperty("error_code").GetInt32();
+                var errorMsg = errors.GetProperty("error_msg").GetString();
+                throw new VkApiException(errorCode, errorMsg);
+            }
 
             if (!root.TryGetProperty("response", out var responseElement) || 
                 !responseElement.TryGetProperty("items", out var itemsElement) ||

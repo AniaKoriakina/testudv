@@ -8,7 +8,7 @@ using testudv.Domain.Interfaces;
 
 namespace testudv.Application.Handlers;
 
-public class CreatePostInfoHandler : IRequestHandler<CreatePostInfoCommand, PostInfoDto>
+public class CreatePostInfoHandler : IRequestHandler<CreatePostsInfoCommand, PostInfoDto>
 {
     private readonly IPostInfoRepository _postInfoRepository;
     private readonly ILogger<CreatePostInfoHandler> _logger;
@@ -24,7 +24,7 @@ public class CreatePostInfoHandler : IRequestHandler<CreatePostInfoCommand, Post
         _logger = logger;
     }
 
-    public async Task<PostInfoDto> Handle(CreatePostInfoCommand request, CancellationToken cancellationToken)
+    public async Task<PostInfoDto> Handle(CreatePostsInfoCommand request, CancellationToken cancellationToken)
     {
         _logger.LogInformation($"Начало выполнения команды для Domain={request.Domain}, Count={request.Count}");
         string text = await _postService.GetPostsAsync(request.Domain, request.Count);
